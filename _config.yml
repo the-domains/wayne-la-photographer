@@ -1,0 +1,28 @@
+name: Wayne La Photographer
+favicon: null
+layout_spectrum: 0.9084294347558171
+typography_spectrum: 0.6102355774492025
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9768042510841042
+  lightness: 0.07906867004930973
+  saturation: 0.8587437986861914
+  rhythmicContrast: 0.6708174259401858
+purpose: []
