@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: London based lifestyle and portrait photographer
-datePublished: '2016-03-08T17:32:16.617Z'
-dateModified: '2016-03-08T17:32:16.253Z'
+description: Wayne La.  London based lifestyle and portrait photographer
+datePublished: '2016-03-08T22:28:09.088Z'
+dateModified: '2016-03-08T22:27:35.621Z'
 title: "Portraits. \_Street. \_Fuji-X."
 author: []
 authors: []
@@ -23,3 +23,9 @@ _type: Blurb
 
 ---
 # Portraits.  Street.  Fuji-X.
+
+Thanks for being here.  I'm a wedding and lifestyle photographer which means I document people at their best  - authentically and honestly.  You can view my work **[here][0].  This site is more personal.  It combines my love of street photography with the stylised freedom of creative portraiture.  I hope you like it.  I can be contacted using [[Photography Enquiry][2]"this form][1]**
+
+[0]: www.captiv8photography.net
+[1]: href
+[2]: https://77212.17hats.com/p#/lcf/fzsgffzprzssvsncwvkgznxsrdpwxdph
