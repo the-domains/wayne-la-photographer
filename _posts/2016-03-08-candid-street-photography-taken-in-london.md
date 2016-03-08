@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-08T14:58:54.514Z'
-dateModified: '2016-03-08T14:58:13.752Z'
+description: Fuji X-T1.
+datePublished: '2016-03-08T16:29:20.706Z'
+dateModified: '2016-03-08T16:18:32.828Z'
 title: Candid street photography taken in London.
 author: []
+sourcePath: _posts/2016-03-08-candid-street-photography-taken-in-london.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-candid-street-photography-taken-in-london.md
-published: true
 url: candid-street-photography-taken-in-london/index.html
 _type: Article
 
