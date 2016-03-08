@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Portraits and Street using Fuji-X]]></title>
         <description><![CDATA[Portraits and Street using Fuji-X]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wayne-la-photographer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 14:59:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 16:07:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wayne-la-photographer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Creative Portraits with July Jones]]></title>
+            <description><![CDATA[<article><h1>Creative Portraits with July Jones</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8fad96e16bd93bdf3374874edffb99660316711c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/wayne-la-photographer/creative-portraits-with-july-jones/index.html</link>
+            <guid isPermaLink="false">6299253d-74d7-437f-ab64-9747e69e7f17</guid>
+            <pubDate>Tue, 08 Mar 2016 16:07:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Candid street photography taken in London.]]></title>
             <description><![CDATA[<article><h1>Candid street photography taken in London.</h1><p>Fuji X-T1.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da30322862ced3748dea789987a098919ca8569f.jpg"></article>]]></description>
-            <link>undefinedcandid-street-photography-taken-in-london/index.html</link>
+            <link>https://thegrid.ai/wayne-la-photographer/candid-street-photography-taken-in-london/index.html</link>
             <guid isPermaLink="false">c0254c20-48c6-44e5-ac62-0783daed3ad1</guid>
             <pubDate>Tue, 08 Mar 2016 14:58:54 GMT</pubDate>
         </item>
