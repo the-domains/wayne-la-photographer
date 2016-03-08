@@ -1,6 +1,6 @@
 name: Wayne La Photographer
 favicon: null
-layout_spectrum: 0.50145
+layout_spectrum: 0.7519
 typography_spectrum: 0.6102355774492025
 title: Portraits and Street using Fuji-X
 cta:
@@ -22,7 +22,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.9768042510841042
+  brandStrength: 0.625
   lightness: 0.07906867004930973
   saturation: 0.8587437986861914
   rhythmicContrast: 0.6708174259401858
