@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Portraits and Street using Fuji-X]]></title>
+        <description><![CDATA[Portraits and Street using Fuji-X]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 08 Mar 2016 14:29:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Greenwich, London, Fuji X-T1, XF 10-24mm.]]></title>
+            <description><![CDATA[<article><h1>Greenwich, London, Fuji X-T1, XF 10-24mm.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ee4fbeb-42f8-4aad-9cb3-aaa30718278b.jpg"></article>]]></description>
+            <link>undefinedgreenwich-london-fuji-x-t1-xf-10-24mm/index.html</link>
+            <guid isPermaLink="false">ea94126a-70eb-44f2-a966-120f071fe31d</guid>
+            <pubDate>Tue, 08 Mar 2016 14:29:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
