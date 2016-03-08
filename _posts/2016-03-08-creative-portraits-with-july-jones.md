@@ -1,25 +1,25 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T15:06:08.143Z'
-dateModified: '2016-03-08T15:05:40.467Z'
+datePublished: '2016-03-08T15:18:03.289Z'
+dateModified: '2016-03-08T15:10:37.901Z'
 title: Creative Portraits with July Jones
+author: []
+sourcePath: _posts/2016-03-08-creative-portraits-with-july-jones.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-03-08-creative-portraits-with-july-jones.md
-published: true
 url: creative-portraits-with-july-jones/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7a03aa5-292b-4f4b-a5c5-36379806ac2f.jpg)
