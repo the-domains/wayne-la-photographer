@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-09T00:07:43.097Z'
-dateModified: '2016-03-09T00:07:10.228Z'
+datePublished: '2016-03-09T00:16:00.992Z'
+dateModified: '2016-03-09T00:08:23.052Z'
 title: "Street Photography. \_Collection I."
 author: []
 authors: []
