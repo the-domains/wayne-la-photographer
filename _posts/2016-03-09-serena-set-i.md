@@ -5,19 +5,19 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Creative portraiture with music artist Serena Kern.
-datePublished: '2016-03-09T21:25:01.827Z'
-dateModified: '2016-03-09T21:24:34.602Z'
-title: Serena Set I
+description: "Promotional images for singer / songwriter, Serena Kern. \_Location was Silverhammer Studios in Hampstead."
+datePublished: '2016-03-09T21:29:55.044Z'
+dateModified: '2016-03-09T21:29:27.845Z'
+title: 'Serena | Set I'
 author: []
+sourcePath: _posts/2016-03-09-serena-set-i.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-09-serena-set-i.md
-published: true
 url: serena-set-i/index.html
 _type: Article
 
