@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'A creative portrait session with July Jones, a London based music artist.  Black and white, emphasising strength, courage, contrast. '
-datePublished: '2016-03-09T00:24:22.084Z'
-dateModified: '2016-03-09T00:20:55.694Z'
+description: A creative portrait session
+datePublished: '2016-03-09T21:29:46.793Z'
+dateModified: '2016-03-09T09:59:48.516Z'
 title: 'July Jones | Part I'
 author: []
 authors: []
@@ -22,7 +22,7 @@ url: july-jones/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccae9b43-0782-4a5f-a7f1-71457e24f6f6.jpg)
+A creative portrait session with July Jones, a London based music artist. Black and white, emphasising strength, courage, contrast. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccae9b43-0782-4a5f-a7f1-71457e24f6f6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/891d7976-17d4-4cb5-8682-a742570fda14.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43bdc870-e614-4c5d-9fc3-dded59a15008.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/864de9f7-1808-4c42-a584-05fec1190697.jpg)
