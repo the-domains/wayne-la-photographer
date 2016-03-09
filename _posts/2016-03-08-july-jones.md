@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-08T23:51:36.954Z'
-dateModified: '2016-03-08T23:51:36.491Z'
-title: July Jones.
+description: 'A creative portrait session with July Jones, a London based music artist.  Black and white, emphasising strength, courage, contrast. '
+datePublished: '2016-03-09T00:24:22.084Z'
+dateModified: '2016-03-09T00:20:55.694Z'
+title: 'July Jones | Part I'
 author: []
 authors: []
 publisher:
