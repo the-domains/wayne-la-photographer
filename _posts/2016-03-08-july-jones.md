@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: A creative portrait session
-datePublished: '2016-03-09T21:29:46.793Z'
-dateModified: '2016-03-09T09:59:48.516Z'
+datePublished: '2016-03-09T21:40:40.393Z'
+dateModified: '2016-03-09T21:35:44.564Z'
 title: 'July Jones | Part I'
 author: []
+sourcePath: _posts/2016-03-08-july-jones.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-july-jones.md
-published: true
 url: july-jones/index.html
 _type: Article
 
