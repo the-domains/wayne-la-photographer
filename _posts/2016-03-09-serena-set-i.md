@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Promotional images for singer / songwriter, Serena Kern. \_Location was Silverhammer Studios in Hampstead."
-datePublished: '2016-03-22T15:27:45.142Z'
-dateModified: '2016-03-22T15:25:38.468Z'
+datePublished: '2016-03-22T15:29:00.731Z'
+dateModified: '2016-03-22T15:27:52.034Z'
 title: 'Serena | Set I'
 author: []
 sourcePath: _posts/2016-03-09-serena-set-i.md
