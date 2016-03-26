@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-25T22:33:49.863Z'
-dateModified: '2016-03-25T22:33:25.363Z'
+datePublished: '2016-03-26T10:02:19.775Z'
+dateModified: '2016-03-25T23:53:23.372Z'
 title: 'Street in Black and White | Set I'
 author: []
+sourcePath: _posts/2016-03-25-street-in-black-and-white-or-set-i.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-25-street-in-black-and-white-or-set-i.md
-published: true
 url: street-in-black-and-white-or-set-i/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b08d7ee-528a-4539-af45-c58ae5bde96b.jpg)
