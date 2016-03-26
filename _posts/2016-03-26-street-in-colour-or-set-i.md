@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-26T13:54:05.379Z'
-dateModified: '2016-03-26T13:54:01.583Z'
+datePublished: '2016-03-26T14:12:56.248Z'
+dateModified: '2016-03-26T13:55:25.884Z'
 author: []
 title: 'Street in Colour | Set I'
+sourcePath: _posts/2016-03-26-street-in-colour-or-set-i.md
+published: true
 authors: []
 publisher:
   name: plus.google.com
   domain: plus.google.com
   url: null
   favicon: null
-sourcePath: _posts/2016-03-26-street-in-colour-or-set-i.md
-published: true
 url: street-in-colour-or-set-i/index.html
 _context: 'http://schema.org'
 _type: Article
