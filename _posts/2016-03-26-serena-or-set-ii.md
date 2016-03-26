@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-26T11:11:20.935Z'
-dateModified: '2016-03-26T11:11:01.234Z'
+datePublished: '2016-03-26T11:46:07.261Z'
+dateModified: '2016-03-26T11:27:29.329Z'
 title: 'Serena | Set II'
 author: []
+sourcePath: _posts/2016-03-26-serena-or-set-ii.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-26-serena-or-set-ii.md
-published: true
 url: serena-or-set-ii/index.html
 _type: WebPage
 
