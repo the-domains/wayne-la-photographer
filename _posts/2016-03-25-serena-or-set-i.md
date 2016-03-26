@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-26T10:04:38.586Z'
-dateModified: '2016-03-26T10:04:37.611Z'
+datePublished: '2016-03-26T10:30:46.750Z'
+dateModified: '2016-03-26T10:09:21.657Z'
 title: 'Serena | Set I'
 author: []
 sourcePath: _posts/2016-03-25-serena-or-set-i.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: serena-or-set-i/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18967f24-a7df-4e7e-810e-01a29667b829.jpg)
