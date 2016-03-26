@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Wayne La | London Based Photographer | Portraits and Streets | Fuji-X.]]></title>
         <description><![CDATA[Wayne La | London Based Photographer | Portraits and Streets | Fuji-X.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wayne-la-photographer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 10:02:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Mar 2016 10:31:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wayne-la-photographer/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Street in Black and White | Set I]]></title>
             <description><![CDATA[<article><h1>Street in Black and White | Set I</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b08d7ee-528a-4539-af45-c58ae5bde96b.jpg"></article>]]></description>
-            <link>undefinedstreet-in-black-and-white-or-set-i/index.html</link>
+            <link>https://thegrid.ai/wayne-la-photographer/street-in-black-and-white-or-set-i/index.html</link>
             <guid isPermaLink="false">3d9fb7f2-e799-41c3-a198-31c22e6bdd4a</guid>
-            <pubDate>Sat, 26 Mar 2016 10:02:19 GMT</pubDate>
+            <pubDate>Sat, 26 Mar 2016 10:30:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
