@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Wayne La | London Based Photographer | Portraits and Streets | Fuji-X.]]></title>
-        <description><![CDATA[Wayne La | London Based Photographer | Portraits and Streets | Fuji-X.]]></description>
+        <title><![CDATA[Wayne La ~ London Photographer | Portrait | Street | Wedding Reportage | Fuji-X.]]></title>
+        <description><![CDATA[Wayne La ~ London Photographer | Portrait | Street | Wedding Reportage | Fuji-X.]]></description>
         <link>https://thegrid.ai/wayne-la-photographer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 14:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2016 08:30:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wayne-la-photographer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Street in Colour | Set I]]></title>
+            <description><![CDATA[<article><h1>Street in Colour | Set I</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ffe112133575e8463b9e5ffdcd84a96d7794fc3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/wayne-la-photographer/street-in-colour-or-set-i/index.html</link>
+            <guid isPermaLink="false">4802e0e5-e753-4f90-af72-48a054268b79</guid>
+            <pubDate>Sun, 27 Mar 2016 08:29:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Serena | Set I]]></title>
             <description><![CDATA[<article><h1>Serena | Set I</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8d356643a5ebef1c145bd6b2be53934d11a5158.jpg"></article>]]></description>
