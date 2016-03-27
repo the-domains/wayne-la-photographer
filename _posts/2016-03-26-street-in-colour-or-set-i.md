@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-26T14:12:56.248Z'
-dateModified: '2016-03-26T13:55:25.884Z'
+datePublished: '2016-03-27T08:29:56.089Z'
+dateModified: '2016-03-26T14:14:31.730Z'
 author: []
 title: 'Street in Colour | Set I'
 sourcePath: _posts/2016-03-26-street-in-colour-or-set-i.md
