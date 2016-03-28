@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-28T15:32:05.607Z'
-dateModified: '2016-03-28T15:30:37.779Z'
+datePublished: '2016-03-28T17:18:11.167Z'
+dateModified: '2016-03-28T15:33:27.157Z'
 title: 'Street in Colour |  Set I'
 author: []
 sourcePath: _posts/2016-03-28-street-in-colour-or-set-i.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: street-in-colour-or-set-i/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19708ce0-674a-4f94-bc89-41ca7fc43645.jpg)
