@@ -1,6 +1,6 @@
 name: Wayne La Photographer
 favicon: null
-layout_spectrum: 0.49895
+layout_spectrum: 0.74459
 typography_spectrum: 0.49706
 title: 'Wayne La ~ London Photographer | Portrait | Street | Wedding Reportage | Fuji-X.'
 cta:
@@ -24,6 +24,6 @@ color:
     - '#b4b4b4'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0.9375
-  rhythmicContrast: 1
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
