@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-19T22:20:42.236Z'
-dateModified: '2016-04-19T22:20:34.889Z'
+datePublished: '2016-04-20T08:59:46.464Z'
+dateModified: '2016-04-20T08:59:02.404Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-19-street-after-dark.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-19-street-after-dark.md
-published: true
 url: street-after-dark/index.html
 _type: Article
 
