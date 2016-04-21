@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Thanks for being here. I'm a wedding and lifestyle photographer which means I document people with authenticity and creatively. You can view my work here.This portfolio shows a more personal approach - experimental if you like. It combines my love of street photography with the stylised freedom of creative portraiture, and some of the leftfield captures from my wedding reportage. I hope you like it. This website is built using the beta version of #thegrid. I can be contacted at hello (@) waynela.com"
-datePublished: '2016-04-21T11:05:31.123Z'
-dateModified: '2016-04-21T11:05:07.507Z'
+datePublished: '2016-04-21T11:06:44.071Z'
+dateModified: '2016-04-21T11:05:35.378Z'
 title: Portraits. Street. Fuji-X.
 author: []
 sourcePath: _posts/2016-03-08-portraits-street-fuji-x.md
