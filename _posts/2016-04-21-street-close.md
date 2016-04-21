@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-21T10:47:24.290Z'
-dateModified: '2016-04-21T10:47:15.983Z'
+datePublished: '2016-04-21T11:02:31.723Z'
+dateModified: '2016-04-21T10:47:33.724Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-21-street-close.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-21-street-close.md
-published: true
 url: street-close/index.html
 _type: Blurb
 
