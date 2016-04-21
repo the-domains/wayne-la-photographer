@@ -24,6 +24,6 @@ color:
     - '#eeeeee'
   brandStrength: 0.6875
   lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 1
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
