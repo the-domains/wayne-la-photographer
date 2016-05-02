@@ -4,8 +4,15 @@
         <description><![CDATA[Wayne La ~ London Photographer | Portrait | Street | Wedding Reportage | Fuji-X.]]></description>
         <link>https://thegrid.ai/wayne-la-photographer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 09:00:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 17:07:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wayne-la-photographer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Street in Black and White | Set I]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b08d7ee-528a-4539-af45-c58ae5bde96b.jpg">]]></description>
+            <link>https://thegrid.ai/wayne-la-photographer/street-in-black-and-white-or-set-i/index.html</link>
+            <guid isPermaLink="false">3d9fb7f2-e799-41c3-a198-31c22e6bdd4a</guid>
+            <pubDate>Mon, 02 May 2016 17:05:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Street: After Dark]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b17380b7-35dd-42e3-8191-cda17b12499f.jpg">]]></description>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/wayne-la-photographer/serena-or-set-i/index.html</link>
             <guid isPermaLink="false">327df00c-a2b3-4c6f-a32c-ad08ff941085</guid>
             <pubDate>Sat, 26 Mar 2016 14:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Street in Black and White | Set I]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b08d7ee-528a-4539-af45-c58ae5bde96b.jpg">]]></description>
-            <link>https://thegrid.ai/wayne-la-photographer/street-in-black-and-white-or-set-i/index.html</link>
-            <guid isPermaLink="false">3d9fb7f2-e799-41c3-a198-31c22e6bdd4a</guid>
-            <pubDate>Sat, 26 Mar 2016 10:30:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
