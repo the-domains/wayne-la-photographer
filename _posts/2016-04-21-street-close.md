@@ -6,12 +6,11 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-21T11:02:31.723Z'
-dateModified: '2016-04-21T10:47:33.724Z'
+datePublished: '2016-05-08T14:31:46.559Z'
+dateModified: '2016-04-21T11:02:40.166Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-21-street-close.md
-published: true
 authors: []
 publisher:
   name: null
