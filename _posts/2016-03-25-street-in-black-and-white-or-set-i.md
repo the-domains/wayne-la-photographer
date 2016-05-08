@@ -5,12 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-02T17:05:28.009Z'
-dateModified: '2016-05-02T17:05:20.772Z'
+datePublished: '2016-05-08T15:26:04.234Z'
+dateModified: '2016-05-08T14:34:05.707Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-25-street-in-black-and-white-or-set-i.md
-published: true
 authors: []
 publisher:
   name: null
@@ -38,3 +37,4 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec695979-e84d-4fdf-8adf-b5f41338b9bc.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c326b921-c145-4849-8142-c0145e547ad6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/00673aa4-a199-4e75-9612-9c653d3f111c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/682136e8-5b6d-47a3-bc2a-d3578aa8f6c6.jpg)
