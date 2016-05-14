@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-13T14:06:12.390Z'
-dateModified: '2016-05-13T14:06:09.310Z'
+datePublished: '2016-05-14T15:09:19.159Z'
+dateModified: '2016-05-14T15:09:12.481Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-28-street-in-colour-or-set-i.md
@@ -29,3 +29,4 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33f54191-c876-4781-960e-cbcaf83c59f9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fc73f7e-407d-4c23-bfd6-52646ee5066a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bb53de4-42f5-4629-931e-209b2c55e0a2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f8f5615-0512-487f-aca5-d27b10604d22.jpg)
