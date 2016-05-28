@@ -5,17 +5,13 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-14T15:21:41.915Z'
-dateModified: '2016-05-14T15:21:41.541Z'
+datePublished: '2016-05-28T23:20:03.410Z'
+dateModified: '2016-05-28T23:20:02.490Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-28-street-in-colour-or-set-i.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: street-in-colour-or-set-i/index.html
 _type: Article
@@ -30,3 +26,4 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fc73f7e-407d-4c23-bfd6-52646ee5066a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bb53de4-42f5-4629-931e-209b2c55e0a2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f8f5615-0512-487f-aca5-d27b10604d22.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08b1b8af-73fa-4e58-b0ee-d059cb94cc14.jpg)
