@@ -13,14 +13,14 @@ description: >-
   you like. It combines my love of street photography with the stylised freedom
   of creative portraiture. I hope you like it. This website is built using the
   beta version of #thegrid. I can be contacted at hello (@) waynela.com
-datePublished: '2016-06-18T20:40:27.791Z'
-dateModified: '2016-06-18T20:40:27.365Z'
+datePublished: '2016-06-18T20:40:49.914Z'
+dateModified: '2016-06-18T20:40:49.225Z'
 title: Portraits. Street. Fuji-X.
 author: []
 sourcePath: _posts/2016-03-08-portraits-street-fuji-x.md
 authors: []
 publisher: null
-starred: false
+starred: true
 _type: Blurb
 
 ---
